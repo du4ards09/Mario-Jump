@@ -3,6 +3,8 @@
 **Mario Jump** é um mini-jogo feito com HTML, CSS e JavaScript onde você controla o Mario para desviar de obstáculos.  
 Um projeto simples, nostálgico e divertido para praticar lógica de programação e animações na web!
 
+Este jogo foi criado com base em tutoriais que acompanhei no YouTube, o que me ajudou a entender melhor como criar animações fluidas usando CSS e JavaScript puro.
+
 ---
 
 ## 🎯 Objetivo
@@ -44,11 +46,6 @@ Um projeto simples, nostálgico e divertido para praticar lógica de programaç�
 
 ---
 
-## 📸 Prévia
-
-![Mario Jump Gameplay](https://github.com/du4ards09/Mario-Jump/blob/main/Images/Grava%C3%A7%C3%A3o%20de%20Tela%202025-07-10%20141105.mp4)  
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
