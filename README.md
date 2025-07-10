@@ -39,7 +39,7 @@ Este jogo foi criado com base em tutoriais que acompanhei no YouTube, o que me a
 ## 👩‍💻 Autor
 
 **Maria Eduarda Lima**  
-[GitHub](https://github.com/du4ards09) | [E-mail](mailto:mariaeduarda@email.com)  
+[GitHub](https://github.com/du4ards09)
 
 > Este projeto é apenas para fins educacionais e sem fins lucrativos.  
 > *Mario* é uma marca registrada da Nintendo.
