@@ -46,8 +46,7 @@ Um projeto simples, nostálgico e divertido para praticar lógica de programaç�
 
 ## 📸 Prévia
 
-![Mario Jump Gameplay](https://github.com/seu-usuario/seu-repo/assets/screenshot.gif)  
-> *Adicione aqui um gif ou imagem da gameplay se quiser.*
+![Mario Jump Gameplay](https://github.com/du4ards09/Mario-Jump/blob/main/Images/Grava%C3%A7%C3%A3o%20de%20Tela%202025-07-10%20141105.mp4)  
 
 ---
 
