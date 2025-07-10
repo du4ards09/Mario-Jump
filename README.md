@@ -1,7 +1,46 @@
 # 🎮 Mario Jump
 
-🎮 **Mario Jump** é um mini-jogo feito com HTML, CSS e JavaScript onde o jogador controla o Mario para desviar de obstáculos.  
-Um projeto simples, nostálgico e divertido para praticar lógica e animações na web!
+**Mario Jump** é um mini-jogo feito com HTML, CSS e JavaScript onde você controla o Mario para desviar de obstáculos.  
+Um projeto simples, nostálgico e divertido para praticar lógica de programação e animações na web!
+
+---
+
+## 🎯 Objetivo
+
+- Praticar lógica de programação com JavaScript puro.  
+- Aprender a manipular o DOM com eventos e interações.  
+- Experimentar animações usando CSS e JS.  
+- Criar algo divertido e interativo com conceitos simples.
+
+---
+
+## 🧠 Aprendizados
+
+- Eventos de teclado (`keydown`)  
+- Manipulação de classes com JavaScript  
+- Animações com `@keyframes`  
+- Verificação de colisão entre elementos  
+- Controle de tempo com `setInterval` e `clearInterval`
+
+---
+
+## 🐞 Possíveis Melhorias Futuras
+
+- Sistema de pontuação e recorde 🏆  
+- Ranking com recordes locais usando `localStorage` 💾  
+- Sons de pulo, colisão e música de fundo 🎵  
+- Otimização para dispositivos móveis 📱  
+- Menu inicial e botão de reiniciar 🔄
+
+---
+
+## 👩‍💻 Autor
+
+**Maria Eduarda Lima**  
+[GitHub](https://github.com/du4ards09) | [E-mail](mailto:mariaeduarda@email.com)  
+
+> Este projeto é apenas para fins educacionais e sem fins lucrativos.  
+> *Mario* é uma marca registrada da Nintendo.
 
 ---
 
@@ -14,15 +53,14 @@ Um projeto simples, nostálgico e divertido para praticar lógica e animações 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- 💻 Totalmente em Vanilla JS (sem frameworks)
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS - sem frameworks)
 
 ---
 
 ## 🚀 Como Jogar
 
-1. Clone o repositório:
+1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/Mario-Jump.git
